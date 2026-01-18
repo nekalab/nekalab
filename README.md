@@ -2,7 +2,7 @@
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&duration=6000&pause=1000&color=F70000&width=435&lines=One+repo+at+a+time.+Learning+in+public.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&duration=6000&pause=1000&color=F70000&width=435&lines=ONE+REPO+AT+A+TIME%2C+IT+WORKS+ON+MY+MACHINE)](https://git.io/typing-svg)
 
 
 
