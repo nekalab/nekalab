@@ -5,7 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&duration=6000&pause=1000&color=F70000&width=435&lines=ONE+REPO+AT+A+TIME.)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="assets/nekalab.jpg" alt="Amanda learning and experimenting with code" width="420"/>
+  <img src="assets/nekalab.jpg" <img src="assets/nekalab.jpg" alt="Amanda learning and experimenting with code" width="420"/>
+
 </p>
 
 # Hi, I’m Amanda! 
@@ -24,5 +25,5 @@ I’m fascinated by the field, by knowledge itself, and by the way logic and cre
 There’s no clear roadmap here.  
 Just curiosity, continuous learning, and the desire to build understanding — one repository at a time.
 
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/nekalab?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&format=svg&weeks=30&theme=red) 
+
 
