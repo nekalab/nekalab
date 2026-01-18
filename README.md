@@ -1,3 +1,9 @@
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/25321985-78fa-4165-8988-61e44288b497"/>
+
+
+
+
+
 <p align="center">
   <img src="assets/nekalab.jpg" alt="Amanda learning and experimenting with code" width="420"/>
 </p>
