@@ -1,4 +1,8 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/25321985-78fa-4165-8988-61e44288b497"/>
+<br>
+<br> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&duration=6000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=One+repo+at+a+time.)](https://git.io/typing-svg)
 
 
 
