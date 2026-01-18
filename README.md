@@ -5,8 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&duration=6000&pause=1000&color=F70000&width=435&lines=ONE+REPO+AT+A+TIME.)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="assets/nekalab.jpg" <img src="assets/nekalab.jpg" alt="Amanda learning and experimenting with code" width="420"/>
-
+ 
 </p>
 
 # Hi, I’m Néka! 
