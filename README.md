@@ -8,7 +8,6 @@
  
 </p>
 
-# Hi, I’m Néka! 
 ### experimenting with code one repo at a time.
 
 I’m here learning about programming, computers, and the science behind technology.
