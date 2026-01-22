@@ -17,14 +17,15 @@ I don’t have all the answers, and that’s part of the process.
 This profile documents my learning through experimentation, mistakes,
 and gradual understanding.
 
-I’m fascinated by the field, by knowledge itself, and by the way logic and creativity meet within computing.
+I’m fascinated by the field itself, by knowledge,
+and by the way logic and creativity meet in computing.
 
 > *“We can only see a short distance ahead, but we can see plenty there that needs to be done.”*  
 > — Alan Turing
 
 Just curiosity, continuous learning,
-and the intention to build real understanding — one repository at a time.
-
+and the intention to build real understanding —
+one repository at a time.
 
 
 
