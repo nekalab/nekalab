@@ -10,18 +10,20 @@
 
 ### experimenting with code one repo at a time.
 
-I’m here learning about programming, computers, and the science behind technology.
+I’m learning programming, computers, and the science behind technology
+through practice, curiosity, and consistency.
 
-I don’t have all the answers yet, and I don’t expect to.  
-This profile exists during the process: while I learn, test, fail, and slowly understand how things work.
+I don’t have all the answers, and that’s part of the process.
+This profile documents my learning through experimentation, mistakes,
+and gradual understanding.
 
 I’m fascinated by the field, by knowledge itself, and by the way logic and creativity meet within computing.
 
 > *“We can only see a short distance ahead, but we can see plenty there that needs to be done.”*  
 > — Alan Turing
 
-There’s no clear roadmap here.  
-Just curiosity, continuous learning, and the desire to build understanding — one repository at a time.
+Just curiosity, continuous learning,
+and the intention to build real understanding — one repository at a time.
 
 
 
