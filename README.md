@@ -1,6 +1,6 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/dd924ff9-8b12-4fe7-8c95-acb8d525d7f0"/>
-<br>
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/0231a45f-cdf6-4b5b-bf77-4006908d539b"/><br>
 <br> 
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&duration=6000&pause=1000&color=F70000&width=435&lines=ONE+REPO+AT+A+TIME.)](https://git.io/typing-svg) 
 
