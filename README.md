@@ -2,6 +2,10 @@
 <br>
 <br> 
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&duration=6000&pause=1000&color=F70000&width=435&lines=ONE+REPO+AT+A+TIME.)](https://git.io/typing-svg)
+
+ 
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/0e738a36-e3bd-4985-bca3-1d70b58ae070"/>
 <br>
 <br>
