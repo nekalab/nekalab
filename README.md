@@ -2,11 +2,11 @@
 <br> 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&duration=6000&pause=1000&color=F70000&width=435&lines=ONE+REPO+AT+A+TIME.)](https://git.io/typing-svg) 
-
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/8ceb3e3b-411d-4f2c-8cd8-f0f4f808e6f6"/>
 <br>
 <br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&duration=6000&pause=1000&color=F70000&width=435&lines=ONE+REPO+AT+A+TIME.)](https://git.io/typing-svg) 
 
 <p align="center">
  
